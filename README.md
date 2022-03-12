@@ -1,12 +1,6 @@
-# Cadena Bank DAPP
+# MSMCoin (ERC20) with Ether.js, React.js and Solidity 
 
-This is the completed code for the Bank DAPP.
+Solidity Contract: https://github.com/msaadm/cadena_eth-101-solidity-contracts  
+Deployed Address(Rinkeby): [0x74639828Ed86400e05C7bBcfcC0590208B3F27cd](https://rinkeby.etherscan.io/address/0x74639828Ed86400e05C7bBcfcC0590208B3F27cd)  
 
-## To Install
-
-Clone the project and run:
-
-### `npm install`
-### `npm start`
-### `add your contract address`
-### `add your contract ABI file`
+DAPP Link: https://msmcoin-msaadm.vercel.app/
